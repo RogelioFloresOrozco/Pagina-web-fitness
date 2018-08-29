@@ -1,0 +1,25 @@
+
+#fondo
+{
+    background-image: url(https://avatars.mds.yandex.net/get-pdb/38069/be10367c-f577-41dc-926a-68895c566cd5/orig);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#about
+{
+    background-color:  black;
+}
+
+
+
+label
+{
+    color: white;
+}
+#respuesta
+{
+    color: white;
+}
+
