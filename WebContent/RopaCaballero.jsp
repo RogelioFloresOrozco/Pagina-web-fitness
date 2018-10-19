@@ -70,10 +70,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$900.00</big>
                   </div>
                 </div>
               </div>
@@ -85,10 +84,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$1500.00</big>
                   </div>
                 </div>
               </div>
@@ -100,10 +98,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$800.00</big>
                   </div>
                 </div>
               </div>
@@ -116,10 +113,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$2000.00</big>
                   </div>
                 </div>
               </div>
@@ -131,10 +127,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$2200.00</big>
                   </div>
                 </div>
               </div>
@@ -146,10 +141,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$1300.00</big>
                   </div>
                 </div>
               </div>
@@ -162,10 +156,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$3000.00</big>
                   </div>
                 </div>
               </div>
@@ -177,10 +170,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$1800.00</big>
                   </div>
                 </div>
               </div>
@@ -192,10 +184,9 @@
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-success">Agregar a Carrito</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <big class="text-success">$500.00</big>
                   </div>
                 </div>
               </div>
